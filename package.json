@@ -1,6 +1,6 @@
 {
   "name": "@wekanteam/meteor-globals",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Allows getting meteor globals in npm packages",
   "main": "dist/index.js",
   "scripts": {
@@ -68,9 +68,9 @@
   "author": "Max Nowack <max@unsou.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxnowack/meteor-globals/issues"
+    "url": "https://github.com/wekan/meteor-globals/issues"
   },
-  "homepage": "https://github.com/maxnowack/meteor-globals#readme",
+  "homepage": "https://github.com/wekan/meteor-globals#readme",
   "devDependencies": {
     "ava": "0.19.1",
     "babel-cli": "6.24.1",
